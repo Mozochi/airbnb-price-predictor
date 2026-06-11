@@ -1,0 +1,11 @@
+{
+  "variance_power": 1.5,
+  "n_estimators": 1200,
+  "max_depth": 12,
+  "learning_rate": 0.02,
+  "subsample": 0.8,
+  "colsample_bytree": 0.6,
+  "min_child_weight": 1,
+  "reg_alpha": 0.1,
+  "reg_lambda": 5.0
+}

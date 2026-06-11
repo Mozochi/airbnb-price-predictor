@@ -1,0 +1,9 @@
+,MAE,RMSE,R2
+Linear Regression,69.63,127.47,0.33
+Ridge Regression,69.63,127.47,0.33
+Linear Regression (Log),62.06,130.57,0.3
+Random Forest,55.52,109.74,0.5
+Random Forest (Log),50.92,112.12,0.48
+"XGBoost (untuned, log)",45.72,103.15,0.56
+"XGBoost (Tweedie, vp=1.5)",44.07,98.4,0.6009
+"XGBoost (tuned, log)",43.82,100.42,0.58

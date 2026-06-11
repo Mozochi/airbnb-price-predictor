@@ -1,0 +1,47 @@
+feature,importance
+city_Budapest,0.17282878
+city_London,0.08121682
+city_Amsterdam,0.07431506
+room_type_Private room,0.07190746
+city_Munich,0.066986375
+room_type_Entire home/apt,0.05969428
+room_type_Shared room,0.059087243
+city_Sicily,0.05058627
+bedrooms,0.041676696
+city_Lyon,0.03595492
+city_Copenhagen,0.021173857
+bathrooms,0.020886572
+accommodates,0.014616349
+city_Brussels,0.014284076
+city_Rome,0.013932471
+city_Zurich,0.013928239
+city_Oslo,0.012199004
+city_Manchester,0.012089703
+longitude,0.011649477
+room_type_Hotel room,0.010956482
+latitude,0.010551184
+neighbourhood_freq,0.009698788
+city_Milan,0.009115372
+city_Vienna,0.008992439
+city_Berlin,0.00830445
+property_type_freq,0.0072775222
+instant_bookable_f,0.0069111437
+distance_to_centre_km,0.0068851886
+calculated_host_listings_count,0.0058058044
+city_Madrid,0.0054895817
+review_scores_location,0.005388207
+instant_bookable_t,0.0048909034
+city_Geneva,0.0047242497
+city_Ghent,0.004647169
+availability_365,0.004425256
+minimum_nights,0.0043768296
+city_Lisbon,0.0042366446
+beds,0.003899291
+city_Stockholm,0.0037022554
+number_of_reviews,0.003255469
+amenities_count,0.0031918134
+review_scores_cleanliness,0.0029871867
+host_is_superhost_f,0.0029813754
+host_is_superhost_t,0.0028832576
+review_scores_rating,0.002827061
+review_scores_value,0.002581447
