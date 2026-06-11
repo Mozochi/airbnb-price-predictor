@@ -54,7 +54,7 @@ def haversine_km(lat1, lon1, lat2, lon2):
 
 
 st.set_page_config(page_title='Airbnb Price Estimator', layout='centered')
-st.title('🏠 Airbnb Nightly Price Estimator')
+st.title('Airbnb Nightly Price Estimator')
 st.caption('XGBoost (Tweedie loss) trained on ~297k listings across 20 European cities.')
 
 model = load_model()
